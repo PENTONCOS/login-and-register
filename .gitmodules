@@ -1,0 +1,3 @@
+[submodule "rbac"]
+	path = rbac
+	url = ssh://git@ssh.github.com:443/PENTONCOS/login-and-register.git
